@@ -1,5 +1,10 @@
 # Question to a Django Developer
 
+Idea from [PostgreSQL Person of the Week](https://postgresql.life/)
+
+TODO: Check questions of IntellJ survey.
+
+
 # How long do you use Django
 
 # What is favorite feature?
