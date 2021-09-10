@@ -9,6 +9,8 @@ TODO: Check questions of IntellJ survey.
 
 When did you use it for the first time?
 
+# What is your role at work?
+
 # What is favorite feature of Django?
 
 # CBV of FBV?
