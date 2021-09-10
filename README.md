@@ -41,3 +41,6 @@ Do you use an additional (open source) library for forms?
 # What do you enjoy in your spare-time?
 
 # Your advice to young people, who learn web development today?
+
+# Where can someone "follow" you? Blog (RSS), Twitter, ....
+
