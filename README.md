@@ -48,3 +48,10 @@ Do you use an additional (open source) library for forms?
 
 # Your favorite food/drink?
 
+# Which channels do you use to help newcomers?
+
+Do you answer questions at Stackoverflow, mailing-lists, Facebook groups, Twitter?
+
+# Which channels do you use to seek help?
+
+
