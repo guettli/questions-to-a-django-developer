@@ -5,9 +5,11 @@ Idea from [PostgreSQL Person of the Week](https://postgresql.life/)
 TODO: Check questions of IntellJ survey.
 
 
-# How long do you use Django
+# How long do you use Django?
 
-# What is favorite feature?
+When did you use it for the first time?
+
+# What is favorite feature of Django?
 
 # CBV of FBV?
 
@@ -28,8 +30,14 @@ Do you use the Django-Rest-Framework?
 Do you use an additional (open source) library for forms?
 
 
-# What are you missing?
+# What are you missing in Django/Python/HTML/HTTP/CSS/Browsers?
 
-# Which other frameworks or libraries do you use?
+# What are your favorite third party libraries which use for your web applications?
+
+# Which other web frameworks (FastAPI, nodejs, ...) do you use?
 
 # Production on: VPS, K8s, ....
+
+# What do you enjoy in your spare-time?
+
+# Your advice to young people, who learn web development today?
