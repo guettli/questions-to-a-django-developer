@@ -54,5 +54,10 @@ Do you answer questions at Stackoverflow, mailing-lists, Facebook groups, Twitte
 
 # Which channels do you use to seek help?
 
+# Do you use atomic requests?
+
+Why use atomic requests, why not?
+
 
 # "to relax" or "to fight". What do you prefer?
+
