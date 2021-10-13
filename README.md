@@ -61,3 +61,10 @@ Why use atomic requests, why not?
 
 # "to relax" or "to fight". What do you prefer?
 
+
+# How does your edit-test cycle look like?
+
+Do you hit ctrl-s to save?
+
+What do you do next: Reload the browser or run tests?
+
