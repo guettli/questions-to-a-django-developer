@@ -68,3 +68,4 @@ Do you hit ctrl-s to save?
 
 What do you do next: Reload the browser or run tests?
 
+# Is all your code in Python3, or do you still have Python2 code?
