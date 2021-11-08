@@ -69,3 +69,10 @@ Do you hit ctrl-s to save?
 What do you do next: Reload the browser or run tests?
 
 # Is all your code in Python3, or do you still have Python2 code?
+
+# How to you avoid bloat in models.py
+
+I have seen models.py files which grew and grew. The file (or files) contained only few declarative DB-fields,
+and a lot of helper methods and properties.
+
+How do you keep models.py file clean?
