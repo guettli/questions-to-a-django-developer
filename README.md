@@ -76,3 +76,7 @@ I have seen models.py files which grew and grew. The file (or files) contained o
 and a lot of helper methods and properties.
 
 How do you keep models.py file clean?
+
+# Do you trust the django template language?
+
+Is is a problem for you, that exceptions get silently ignored?
