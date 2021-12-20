@@ -80,3 +80,7 @@ How do you keep models.py file clean?
 # Do you trust the django template language?
 
 Is is a problem for you, that exceptions get silently ignored?
+
+# How do you integrate third party JS libraries?
+
+Related: https://github.com/guettli/django-and-third-party-js
